@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class two {
 		public static void main(String[] args) {
 		    Scanner in=new Scanner(System.in);
-			System.out.println("Введите размерность массива: ");
+			System.out.println("Г‚ГўГҐГ¤ГЁГІГҐ Г°Г Г§Г¬ГҐГ°Г­Г®Г±ГІГј Г¬Г Г±Г±ГЁГўГ : ");
 			int n=in.nextInt();
 			int[] a;
 			a = new int[n];
