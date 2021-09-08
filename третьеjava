@@ -1,20 +1,20 @@
-//эта не работает, но я пыталась
+//СЌС‚Р° РЅРµ СЂР°Р±РѕС‚Р°РµС‚, РЅРѕ СЏ РїС‹С‚Р°Р»Р°СЃСЊ
 package aa;
 import java.util.Scanner;
 public class three {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
-		System.out.print("Введите значение полуоси a: ");
+		System.out.print("Р’РІРµРґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ РїРѕР»СѓРѕСЃРё a:: ");
 		int a = in.nextInt();
-		System.out.print("Введите значение полуоси b: ");
+		System.out.print("Р’РІРµРґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ РїРѕР»СѓРѕСЃРё b:: ");
 		int b = in.nextInt();
 		
-		System.out.print("Введите координаты центра х: ");
+		System.out.print("Р’РІРµРґРёС‚Рµ РєРѕРѕСЂРґРёРЅР°С‚С‹ С†РµРЅС‚СЂР° С…: ");
 		int Xc = in.nextInt();
-		System.out.print("Введите координаты центра у: ");
+		System.out.print("Р’РІРµРґРёС‚Рµ РєРѕРѕСЂРґРёРЅР°С‚С‹ С†РµРЅС‚СЂР° Сѓ: ");
 		int Yc = in.nextInt();
 		
-		System.out.println("Введите размерность массива: ");
+		System.out.println("Р’РІРµРґРёС‚Рµ СЂР°Р·РјРµСЂРЅРѕСЃС‚СЊ РјР°СЃСЃРёРІ: ");
 		int n=in.nextInt();
 		int[] mas;
 		mas = new int[n];
