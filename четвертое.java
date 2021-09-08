@@ -20,7 +20,7 @@ public class four {
 		}
 
 		out.println();
-		out.println( "количество перестановок " +k );
+		out.println( "РєРѕР»РёС‡РµСЃС‚РІРѕ РїРµСЂРµСЃС‚Р°РЅРѕРІРѕРє " +k );
 		printMas(mas);
 	}
 		public static void printMas(int[] array) 
